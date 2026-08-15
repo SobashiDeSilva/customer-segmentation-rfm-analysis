@@ -40,4 +40,4 @@ Which customers should the business prioritize for retention marketing, and whic
 - `dashboard_screenshot.png` — dashboard preview
 
 ## Author
-Sobashi | Data Science Undergraduate, University of Kelaniya
+Sobashi | MIT Undergraduate, University of Kelaniya
